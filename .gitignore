@@ -1,2 +1,6 @@
 .vs/
 .idea/
+__pycache__/
+package1/
+.pyproj
+.sln
